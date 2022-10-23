@@ -1,0 +1,23 @@
+#invalid {
+    color: red;
+    display: none;
+}
+
+.login {
+    margin: auto;
+    background-color: yellow;
+    padding: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#password {
+    padding-top: 50px;
+}
+
+#login {
+    margin-top: 30px;
+    text-align: center;
+}
